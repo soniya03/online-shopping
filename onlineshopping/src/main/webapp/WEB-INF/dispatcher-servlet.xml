@@ -19,4 +19,5 @@ xmlns:mvc = "http://www.springframework.org/schema/mvc"
 	<!-- Loading static resources -->
 	<mvc:annotation-driven/>
 	<mvc:resources location="/assets/" mapping="/resources/**"></mvc:resources>
+	
 </beans>
